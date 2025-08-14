@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+spacy
+firebase-admin
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+pypdf
+faiss-cpu
